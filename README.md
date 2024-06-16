@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andika Wahyu Saputra</h1>
 <h3 align="center">A passionate Android developer from Indonesia</h3>
-<img align="right" alt="Zeta" width="600" src="https://media1.tenor.com/m/KvPS6rvl7X0AAAAC/zeta-%E3%82%BC%E3%83%BC%E3%82%BF.gif">
+<img align="right" alt="Zeta" width="400" src="https://media1.tenor.com/m/KvPS6rvl7X0AAAAC/zeta-%E3%82%BC%E3%83%BC%E3%82%BF.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andika1720&label=Profile%20views&color=0e75b6&style=flat" alt="andika1720" /> </p>
 
